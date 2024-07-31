@@ -2,9 +2,9 @@
 
 ## About
 
-This repository contains the source code for my personal website. It is built using HTML and CSS. The website showcases my background, skills, projects, experience, and achievements.
+This repo has the source code for my personal website. It's built with HTML and CSS. The site packages my background, skills, projects, experience, and achievements.
 
-You can view the website online at [https://shayazpithawalla.me](https://shayazpithawalla.me).
+You can view my website at [https://shayazpithawalla.me](https://shayazpithawalla.me).
 
 ## Contact
 
